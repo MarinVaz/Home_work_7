@@ -1,0 +1,15 @@
+C:\Users\Марина\Desktop\exm\Task_18\bin\Debug\net6.0\Task_18.exe
+C:\Users\Марина\Desktop\exm\Task_18\bin\Debug\net6.0\Task_18.deps.json
+C:\Users\Марина\Desktop\exm\Task_18\bin\Debug\net6.0\Task_18.runtimeconfig.json
+C:\Users\Марина\Desktop\exm\Task_18\bin\Debug\net6.0\Task_18.dll
+C:\Users\Марина\Desktop\exm\Task_18\bin\Debug\net6.0\Task_18.pdb
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.csproj.AssemblyReference.cache
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.AssemblyInfoInputs.cache
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.AssemblyInfo.cs
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.dll
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\refint\Task_18.dll
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.pdb
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\Task_18.genruntimeconfig.cache
+C:\Users\Марина\Desktop\exm\Task_18\obj\Debug\net6.0\ref\Task_18.dll
